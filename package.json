@@ -1,0 +1,16 @@
+{
+  "name": "yunser-cmd",
+  "version": "1.0.0",
+  "description": "命令行工具大全",
+  "devDependencies": {},
+  "bin": {
+    "ys": "./bin/web.js",
+    "yunser": "./bin/web.js"
+  },
+  "author": "yunser",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "yargs": "^13.2.1"
+  }
+}
